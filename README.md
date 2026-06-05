@@ -81,29 +81,29 @@ Read the readme's!
 Check readme files for each mod for specifics, but generally the following order is recommended:
 
 Top
-DlcMerger (needed in BGEE regardless of EET IF SoD is installed)
-* Fix mods required before EET (EE Fixpack)
-* Atypical mods required before EET
-* Item mods required before EET
-* Store mods required before EET
-* Quest / content mods required before EET (bg1 unfinished business for example)
-* NPC mods required before EET
-EET
-+ Eeex
-Atypical mods (portraits, audio)
-Item mods
-Store mods
-Quest / content mods
-NPC mods
-Tweak / tactical mods
-EET_end
+1.DlcMerger (needed in BGEE regardless of EET IF SoD is installed)
+2. * Fix mods required before EET (EE Fixpack)
+3. * Atypical mods required before EET
+4. * Item mods required before EET
+5. * Store mods required before EET
+6. * Quest / content mods required before EET (bg1 unfinished business for example)
+7. * NPC mods required before EET
+8. EET
+9. + Eeex
+10. Atypical mods (portraits, audio)
+11. Item mods
+12. Store mods
+13. Quest / content mods
+14. NPC mods
+15. Tweak / tactical mods
+16. EET_end
 Bottom
 
-* check the compatibility list to see which of these mods need to be installed before EET
+ * check the compatibility list to see which of these mods need to be installed before EET
 
-+ As far as I'm aware this an only be used on WINDOWS installation of BG1, BG2, or EET
-+ and cannot be used on the native linux version
-+ Must be installed before other mods relying on script extender
+ + As far as I'm aware this an only be used on WINDOWS installation of BG1, BG2, or EET
+ + and cannot be used on the native linux version
+ + Must be installed before other mods relying on script extender, but can actually be installed anywhere
 
 Within each category it is good practice to order mods from oldest to newest
 
